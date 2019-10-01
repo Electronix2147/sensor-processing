@@ -2,9 +2,10 @@
 Ultra Sonic
 IR
 LDR
-Node MCU
+NodeMCU
 Bluetooth
 NRF
-
+R-Pi
 # Feel Free To Contribute
 You want more codes?
+feel free to subscribe our Youtube Channel : https://www.youtube.com/channel/UChse-ROABYYEngsyWNeKxcw
